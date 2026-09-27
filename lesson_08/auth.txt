@@ -1,0 +1,3 @@
+"login": "skaikruuo@gmail.com",
+"password": "kievskaya18",
+"companyId": "90678b93-7541-4754-9494-8e04bb802514"
